@@ -17,7 +17,7 @@ if uploaded_file is not None:
     st.success("CV uploaded and processed successfully!")
 
 # NVIDIA API Key (Set in Render Environment Variables)
-nvidia_api_key = st.secrets["NVIDIA_API_KEY"]
+nvidia_api_key = "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"
 
 # Initialize OpenAI client
 client = OpenAI(
