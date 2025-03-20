@@ -1,4 +1,4 @@
 streamlit
+pandas
+numpy
 PyPDF2
-openai
-gunicorn
